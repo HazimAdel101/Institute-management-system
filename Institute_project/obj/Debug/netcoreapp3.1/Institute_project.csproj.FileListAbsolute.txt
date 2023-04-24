@@ -1,0 +1,107 @@
+C:\Users\Hazim\source\repos\Institute_project\Institute_project\bin\Debug\netcoreapp3.1\Institute_project.exe
+C:\Users\Hazim\source\repos\Institute_project\Institute_project\bin\Debug\netcoreapp3.1\Institute_project.deps.json
+C:\Users\Hazim\source\repos\Institute_project\Institute_project\bin\Debug\netcoreapp3.1\Institute_project.runtimeconfig.json
+C:\Users\Hazim\source\repos\Institute_project\Institute_project\bin\Debug\netcoreapp3.1\Institute_project.runtimeconfig.dev.json
+C:\Users\Hazim\source\repos\Institute_project\Institute_project\bin\Debug\netcoreapp3.1\Institute_project.dll
+C:\Users\Hazim\source\repos\Institute_project\Institute_project\bin\Debug\netcoreapp3.1\Institute_project.pdb
+C:\Users\Hazim\source\repos\Institute_project\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.csprojAssemblyReference.cache
+C:\Users\Hazim\source\repos\Institute_project\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.Registration.resources
+C:\Users\Hazim\source\repos\Institute_project\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.csproj.GenerateResource.cache
+C:\Users\Hazim\source\repos\Institute_project\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.AssemblyInfoInputs.cache
+C:\Users\Hazim\source\repos\Institute_project\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.AssemblyInfo.cs
+C:\Users\Hazim\source\repos\Institute_project\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.csproj.CoreCompileInputs.cache
+C:\Users\Hazim\source\repos\Institute_project\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.dll
+C:\Users\Hazim\source\repos\Institute_project\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.pdb
+C:\Users\Hazim\source\repos\Institute_project\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.genruntimeconfig.cache
+C:\Users\Hazim\source\repos\Institute_project\Institute_project\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Hazim\source\repos\Institute_project\Institute_project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Hazim\source\repos\Institute_project\Institute_project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Hazim\source\repos\Institute_project\Institute_project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Hazim\source\repos\Institute_project\Institute_project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hazim\source\repos\Institute_project\Institute_project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hazim\source\repos\Institute_project\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.csproj.CopyComplete
+C:\Users\Hazim\Desktop\c# projects\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\Institute_project.exe
+C:\Users\Hazim\Desktop\c# projects\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\Institute_project.deps.json
+C:\Users\Hazim\Desktop\c# projects\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\Institute_project.runtimeconfig.json
+C:\Users\Hazim\Desktop\c# projects\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\Institute_project.runtimeconfig.dev.json
+C:\Users\Hazim\Desktop\c# projects\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\Institute_project.dll
+C:\Users\Hazim\Desktop\c# projects\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\Institute_project.pdb
+C:\Users\Hazim\Desktop\c# projects\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Hazim\Desktop\c# projects\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Hazim\Desktop\c# projects\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Hazim\Desktop\c# projects\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Hazim\Desktop\c# projects\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hazim\Desktop\c# projects\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hazim\Desktop\c# projects\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.csprojAssemblyReference.cache
+C:\Users\Hazim\Desktop\c# projects\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.Registration.resources
+C:\Users\Hazim\Desktop\c# projects\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.csproj.GenerateResource.cache
+C:\Users\Hazim\Desktop\c# projects\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.AssemblyInfoInputs.cache
+C:\Users\Hazim\Desktop\c# projects\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.AssemblyInfo.cs
+C:\Users\Hazim\Desktop\c# projects\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.csproj.CoreCompileInputs.cache
+C:\Users\Hazim\Desktop\c# projects\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.csproj.CopyComplete
+C:\Users\Hazim\Desktop\c# projects\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.dll
+C:\Users\Hazim\Desktop\c# projects\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.pdb
+C:\Users\Hazim\Desktop\c# projects\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.genruntimeconfig.cache
+C:\Users\Hazim\Desktop\c# projects\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.Login.resources
+C:\Users\Hazim\Desktop\c# projects\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Hazim\Desktop\c# projects\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Hazim\Desktop\c# projects\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Hazim\Desktop\c# projects\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.Querying.resources
+H:\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\Institute_project.exe
+H:\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\Institute_project.deps.json
+H:\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\Institute_project.runtimeconfig.json
+H:\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\Institute_project.runtimeconfig.dev.json
+H:\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\Institute_project.dll
+H:\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\Institute_project.pdb
+H:\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+H:\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+H:\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+H:\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+H:\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+H:\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+H:\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.csprojAssemblyReference.cache
+H:\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.Registration.resources
+H:\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.Login.resources
+H:\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.Querying.resources
+H:\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.Grades.resources
+H:\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.csproj.GenerateResource.cache
+H:\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.AssemblyInfoInputs.cache
+H:\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.AssemblyInfo.cs
+H:\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.csproj.CoreCompileInputs.cache
+H:\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.csproj.CopyComplete
+H:\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.dll
+H:\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.pdb
+H:\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.genruntimeconfig.cache
+C:\Users\Hazim\Desktop\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\Institute_project.exe
+C:\Users\Hazim\Desktop\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\Institute_project.deps.json
+C:\Users\Hazim\Desktop\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\Institute_project.runtimeconfig.json
+C:\Users\Hazim\Desktop\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\Institute_project.runtimeconfig.dev.json
+C:\Users\Hazim\Desktop\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\Institute_project.dll
+C:\Users\Hazim\Desktop\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\Institute_project.pdb
+C:\Users\Hazim\Desktop\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Hazim\Desktop\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Hazim\Desktop\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Hazim\Desktop\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Hazim\Desktop\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Hazim\Desktop\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Hazim\Desktop\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Hazim\Desktop\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hazim\Desktop\Institute_project_2\Institute_project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hazim\Desktop\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.csprojAssemblyReference.cache
+C:\Users\Hazim\Desktop\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.Registration.resources
+C:\Users\Hazim\Desktop\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.Login.resources
+C:\Users\Hazim\Desktop\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.Querying.resources
+C:\Users\Hazim\Desktop\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.Grades.resources
+C:\Users\Hazim\Desktop\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.csproj.GenerateResource.cache
+C:\Users\Hazim\Desktop\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.AssemblyInfoInputs.cache
+C:\Users\Hazim\Desktop\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.AssemblyInfo.cs
+C:\Users\Hazim\Desktop\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.csproj.CoreCompileInputs.cache
+C:\Users\Hazim\Desktop\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.csproj.CopyComplete
+C:\Users\Hazim\Desktop\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.dll
+C:\Users\Hazim\Desktop\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.pdb
+C:\Users\Hazim\Desktop\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.genruntimeconfig.cache
+C:\Users\Hazim\Desktop\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.QueryMarks.resources
+C:\Users\Hazim\Desktop\Institute_project_2\Institute_project\obj\Debug\netcoreapp3.1\Institute_project.Properties.Resources.resources
